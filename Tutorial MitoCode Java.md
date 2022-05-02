@@ -1,4 +1,4 @@
-![MitoCode_logo](src/Tutorial_Java_MitoCode/MitoCode_logo.png)
+![MitoCode_logo](src/MitoCode_logo.png)
 # Java Tutorial MitoCode
 [Github MitoCode](https://github.com/mitocode21)
 
